@@ -1,10 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workingSetManager>
-<workingSet editPageId="org.eclipse.mylyn.tasks.ui.workingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1459242816987_1" label="DeviceInfo" name="DeviceInfo">
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/DeviceInfo" type="4"/>
-<item factoryID="org.eclipse.mylyn.tasks.ui.workingSets.elementFactory" handle.task="Uncategorized"/>
-</workingSet>
-<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1459134694888_0" label="Window Working Set" name="Aggregate for window 1459134694873">
-<workingSet IMemento.internal.id="DeviceInfo"/>
-</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1459134694888_0" label="Window Working Set" name="Aggregate for window 1459134694873"/>
 </workingSetManager>
