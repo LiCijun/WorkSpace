@@ -8,4 +8,4 @@ logcat.view.colsize.TID=58
 logcat.view.colsize.Tag=119
 logcat.view.colsize.Text=613
 logcat.view.colsize.Time=150
-logcat.view.filters.list=name\: 'Keymantek', tag\: 'Keymantek', text\: '', pid\: '', app\: '', level\: 'verbose', 
+logcat.view.filters.list=name\: 'Keymantek', tag\: 'Keymantek', text\: '', pid\: '', app\: '', level\: 'verbose', name\: 'TTT', tag\: 'TTT', text\: '', pid\: '', app\: '', level\: 'verbose', name\: 'km.example.mmmm', tag\: '', text\: '', pid\: '', app\: 'km.example.mmmm', level\: 'debug', 
