@@ -13,18 +13,20 @@
 		<item value="true" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="false" key="wholeword"/>
-		<item value="DealUpdateData" key="selection"/>
+		<item value="" key="selection"/>
 		<list key="findhistory">
-			<item value="DealUpdateData"/>
-			<item value="m_SUI_Lock"/>
-			<item value="m_SUI_ObjectsEvent"/>
-			<item value="getb"/>
-			<item value="setIsOpen"/>
-			<item value="CurrentPort"/>
-			<item value="m_versionGroup"/>
-			<item value="ReadThread"/>
+			<item value="System.arraycopy"/>
+			<item value="arraycopy"/>
+			<item value="TEsamIRAuthCheckRandom"/>
+			<item value="IRAuthCheckRandom"/>
+			<item value="GetVersion"/>
+			<item value="GetRegisterMsg"/>
+			<item value="CalculateProtectedCode"/>
+			<item value="GetProtectedData"/>
 		</list>
 		<list key="replacehistory">
+			<item value="DataConvert.ArrayCopy"/>
+			<item value="data"/>
 			<item value=""/>
 			<item value="@param"/>
 			<item value="boolean"/>

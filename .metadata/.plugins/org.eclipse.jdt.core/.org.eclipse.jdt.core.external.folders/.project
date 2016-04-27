@@ -17,17 +17,17 @@
 		<link>
 			<name>.link4</name>
 			<type>2</type>
-			<location>D:/Android/Sdk/sources/android-15</location>
+			<location>D:/Android/Sdk/sources/android-23</location>
 		</link>
 		<link>
 			<name>.link5</name>
 			<type>2</type>
-			<location>D:/Android/Sdk/sources/android-23</location>
+			<location>D:/Android/Sdk/sources/android-22</location>
 		</link>
 		<link>
 			<name>.link7</name>
 			<type>2</type>
-			<location>D:/Android/Sdk/sources/android-22</location>
+			<location>D:/Android/Sdk/sources/android-15</location>
 		</link>
 	</linkedResources>
 </projectDescription>

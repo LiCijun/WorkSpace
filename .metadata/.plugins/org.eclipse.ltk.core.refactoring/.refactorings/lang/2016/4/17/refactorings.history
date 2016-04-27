@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;keymantek.android.lang.PDouble&apos; to &apos;Pdouble&apos;&#x0D;&#x0A;- Original project: &apos;lang&apos;&#x0D;&#x0A;- Original element: &apos;keymantek.android.lang.PDouble&apos;&#x0D;&#x0A;- Renamed element: &apos;keymantek.android.lang.Pdouble&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;PDouble&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;keymantek.android.lang{PDouble.java[PDouble" matchStrategy="1" name="Pdouble" qualified="false" references="true" similarDeclarations="false" stamp="1461290131304" textual="false" version="1.0"/>
-</session>
