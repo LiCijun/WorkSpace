@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<item value="2" key="TypeHierarchyViewPart.hierarchyview"/>
-	<item value="true" key="ProjectSelectionDialog.show_all"/>
 	<item value="filter_imports;" key="filters_last_used"/>
+	<item value="true" key="ProjectSelectionDialog.show_all"/>
 	<item value="500" key="CallHierarchyViewPart.ratio3"/>
 	<item value="500" key="CallHierarchyViewPart.ratio1"/>
-	<item value="false" key="TypeHierarchyViewPart.qualifiednames"/>
-	<item value="3" key="TypeHierarchyViewPart.orientation"/>
 	<item value="3" key="CallHierarchyViewPart.orientation"/>
+	<item value="3" key="TypeHierarchyViewPart.orientation"/>
+	<item value="false" key="TypeHierarchyViewPart.qualifiednames"/>
 	<item value="1" key="SearchScopeActionGroup.search_scope_type"/>
 	<item value="2" key="CallHierarchyViewPart.field_mode"/>
-	<item value="false" key="SortMembers.sort_all"/>
 	<item value="false" key="TypeHierarchyViewPart.linkeditors"/>
+	<item value="false" key="SortMembers.sort_all"/>
 	<item value="0" key="CallHierarchyViewPart.call_mode"/>
 	<list key="SearchScopeActionGroup.working_set">
 	</list>
@@ -25,19 +25,12 @@
 	<section name="org.eclipse.jdt.internal.ui.wizards.buildpaths.NewVariableEntryDialog">
 		<item value="577" key="DIALOG_WIDTH"/>
 		<item value="-9" key="DIALOG_Y_ORIGIN"/>
-		<item value="439" key="DIALOG_HEIGHT"/>
 		<item value="86" key="DIALOG_X_ORIGIN"/>
+		<item value="439" key="DIALOG_HEIGHT"/>
 		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
 	</section>
 	<section name="BuildPathsPropertyPage">
 		<item value="2" key="pageIndex"/>
-	</section>
-	<section name="DialogBounds_SuperInterfaceSelectionDialog">
-		<item value="373" key="DIALOG_WIDTH"/>
-		<item value="-61" key="DIALOG_Y_ORIGIN"/>
-		<item value="597" key="DIALOG_HEIGHT"/>
-		<item value="100" key="DIALOG_X_ORIGIN"/>
-		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
 	</section>
 	<section name="JavaSearchPage">
 		<item value="true" key="CASE_SENSITIVE"/>
@@ -47,10 +40,10 @@
 			<item value="15" key="includeMask"/>
 			<item value="3" key="limitTo"/>
 			<item value="0" key="scope"/>
-			<item value="System.arraycopy" key="pattern"/>
 			<item value="" key="javaElement"/>
-			<item value="1" key="searchFor"/>
+			<item value="System.arraycopy" key="pattern"/>
 			<item value="0" key="matchLocations"/>
+			<item value="1" key="searchFor"/>
 			<item value="true" key="isCaseSensitive"/>
 			<list key="workingSets">
 			</list>
@@ -59,25 +52,32 @@
 			<item value="15" key="includeMask"/>
 			<item value="2" key="limitTo"/>
 			<item value="0" key="scope"/>
-			<item value="Keymantek.Android.deviceinfo" key="pattern"/>
 			<item value="" key="javaElement"/>
-			<item value="0" key="searchFor"/>
+			<item value="Keymantek.Android.deviceinfo" key="pattern"/>
 			<item value="0" key="matchLocations"/>
+			<item value="0" key="searchFor"/>
 			<item value="false" key="isCaseSensitive"/>
 			<list key="workingSets">
 			</list>
 		</section>
 	</section>
+	<section name="DialogBounds_SuperInterfaceSelectionDialog">
+		<item value="373" key="DIALOG_WIDTH"/>
+		<item value="-61" key="DIALOG_Y_ORIGIN"/>
+		<item value="100" key="DIALOG_X_ORIGIN"/>
+		<item value="597" key="DIALOG_HEIGHT"/>
+		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="ClasspathContainerSelectionPage">
+		<item value="0" key="index"/>
+	</section>
 	<section name="SourceActionDialog.methods">
-		<item value="true" key="Comments"/>
 		<item value="1" key="VisibilityModifier"/>
+		<item value="true" key="Comments"/>
 		<item value="false" key="InstanceOf"/>
 		<item value="false" key="SynchronizedModifier"/>
 		<item value="false" key="Blocks"/>
 		<item value="false" key="FinalModifier"/>
-	</section>
-	<section name="ClasspathContainerSelectionPage">
-		<item value="0" key="index"/>
 	</section>
 	<section name="javadoc">
 		<item value="false" key="nodeprecatedlist"/>
@@ -108,8 +108,8 @@
 	<section name="DialogBounds_AddUnimplementedConstructorsDialog">
 		<item value="574" key="DIALOG_WIDTH"/>
 		<item value="66" key="DIALOG_Y_ORIGIN"/>
-		<item value="693" key="DIALOG_HEIGHT"/>
 		<item value="681" key="DIALOG_X_ORIGIN"/>
+		<item value="693" key="DIALOG_HEIGHT"/>
 		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
 	</section>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
@@ -122,8 +122,8 @@
 	<section name="DialogBounds_AddDelegateMethodsDialog">
 		<item value="608" key="DIALOG_WIDTH"/>
 		<item value="118" key="DIALOG_Y_ORIGIN"/>
-		<item value="615" key="DIALOG_HEIGHT"/>
 		<item value="664" key="DIALOG_X_ORIGIN"/>
+		<item value="615" key="DIALOG_HEIGHT"/>
 		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
 	</section>
 	<section name="JavaElementSearchActions">
@@ -134,8 +134,8 @@
 	<section name="DialogBounds_GetterSetterTreeSelectionDialog">
 		<item value="587" key="DIALOG_WIDTH"/>
 		<item value="51" key="DIALOG_Y_ORIGIN"/>
-		<item value="767" key="DIALOG_HEIGHT"/>
 		<item value="818" key="DIALOG_X_ORIGIN"/>
+		<item value="767" key="DIALOG_HEIGHT"/>
 		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
 	</section>
 	<section name="SearchInDialog">
@@ -161,8 +161,8 @@
 	<section name="DialogBounds_GenerateHashCodeEqualsDialog">
 		<item value="516" key="DIALOG_WIDTH"/>
 		<item value="106" key="DIALOG_Y_ORIGIN"/>
-		<item value="633" key="DIALOG_HEIGHT"/>
 		<item value="710" key="DIALOG_X_ORIGIN"/>
+		<item value="633" key="DIALOG_HEIGHT"/>
 		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
 	</section>
 	<section name="CallHierarchySearchScope">
@@ -170,18 +170,18 @@
 	<section name="DialogBounds_OverrideMethodDialog">
 		<item value="582" key="DIALOG_WIDTH"/>
 		<item value="251" key="DIALOG_Y_ORIGIN"/>
-		<item value="519" key="DIALOG_HEIGHT"/>
 		<item value="882" key="DIALOG_X_ORIGIN"/>
+		<item value="519" key="DIALOG_HEIGHT"/>
 		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="SourceActionDialog.constructors">
+		<item value="1" key="VisibilityModifier"/>
+		<item value="false" key="Comments"/>
+		<item value="false" key="SynchronizedModifier"/>
+		<item value="false" key="FinalModifier"/>
 	</section>
 	<section name="SelfEncapsulateFieldWizard">
 		<item value="true" key="GenerateJavadoc"/>
-	</section>
-	<section name="SourceActionDialog.constructors">
-		<item value="false" key="Comments"/>
-		<item value="1" key="VisibilityModifier"/>
-		<item value="false" key="SynchronizedModifier"/>
-		<item value="false" key="FinalModifier"/>
 	</section>
 	<section name="RefactoringWizard.preview">
 		<item value="400" key="height"/>
@@ -202,8 +202,8 @@
 		<section name="DialogBoundsSettings">
 			<item value="600" key="DIALOG_WIDTH"/>
 			<item value="8" key="DIALOG_Y_ORIGIN"/>
-			<item value="8" key="DIALOG_X_ORIGIN"/>
 			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="8" key="DIALOG_X_ORIGIN"/>
 			<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
 		</section>
 	</section>
@@ -211,23 +211,23 @@
 		<item value="331" key="contextSelector.size.x"/>
 		<item value="241" key="contextSelector.size.y"/>
 	</section>
-	<section name="NewClassWizardPage">
-		<item value="true" key="create_constructor"/>
-		<item value="true" key="create_unimplemented"/>
-	</section>
 	<section name="org.eclipse.ltk.ui.refactoring.settings">
-		<item value="*" key="patterns"/>
-		<item value="false" key="updateQualifiedNames"/>
 		<item value="false" key="renameSubpackages"/>
+		<item value="false" key="updateQualifiedNames"/>
+		<item value="*" key="patterns"/>
 		<item value="1" key="updateSimilarElementsMatchStrategy"/>
 		<item value="false" key="updateTextualMatches"/>
 		<item value="false" key="updateSimilarElements"/>
 	</section>
+	<section name="NewClassWizardPage">
+		<item value="true" key="create_constructor"/>
+		<item value="true" key="create_unimplemented"/>
+	</section>
 	<section name="JavadocWizardDialog">
 		<item value="616" key="DIALOG_WIDTH"/>
 		<item value="122" key="DIALOG_Y_ORIGIN"/>
-		<item value="660" key="DIALOG_X_ORIGIN"/>
 		<item value="609" key="DIALOG_HEIGHT"/>
+		<item value="660" key="DIALOG_X_ORIGIN"/>
 		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
 	</section>
 </section>
