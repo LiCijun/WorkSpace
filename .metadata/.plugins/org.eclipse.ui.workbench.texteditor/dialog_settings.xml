@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item value="273" key="DIALOG_WIDTH"/>
-		<item value="562" key="DIALOG_Y_ORIGIN"/>
-		<item value="1579" key="DIALOG_X_ORIGIN"/>
-		<item value="400" key="DIALOG_HEIGHT"/>
-		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
-	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item value="true" key="wrap"/>
-		<item value="true" key="casesensitive"/>
 		<item value="false" key="isRegEx"/>
+		<item value="SecureUnit" key="selection"/>
+		<item value="true" key="casesensitive"/>
 		<item value="false" key="incremental"/>
-		<item value="false" key="wholeword"/>
-		<item value="OnFrameDataReceived" key="selection"/>
+		<item value="true" key="wrap"/>
+		<item value="true" key="wholeword"/>
 		<list key="findhistory">
-			<item value="OnFrameDataReceived"/>
-			<item value="System.arraycopy"/>
-			<item value="arraycopy"/>
-			<item value="TEsamIRAuthCheckRandom"/>
-			<item value="IRAuthCheckRandom"/>
-			<item value="GetVersion"/>
-			<item value="GetRegisterMsg"/>
-			<item value="CalculateProtectedCode"/>
+			<item value="SecureUnit"/>
+			<item value="ShowMessage"/>
+			<item value="OnCheckDataCache"/>
+			<item value="Log"/>
+			<item value="PacketMessage"/>
+			<item value="UIMessage"/>
+			<item value="clearChanged"/>
+			<item value="lock"/>
 		</list>
 		<list key="replacehistory">
+			<item value=""/>
 			<item value="DataConvert.ArrayCopy"/>
 			<item value="data"/>
-			<item value=""/>
 			<item value="@param"/>
 			<item value="boolean"/>
 		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="273" key="DIALOG_WIDTH"/>
+		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
+		<item value="400" key="DIALOG_HEIGHT"/>
+		<item value="528" key="DIALOG_Y_ORIGIN"/>
+		<item value="1063" key="DIALOG_X_ORIGIN"/>
 	</section>
 </section>
