@@ -10,24 +10,24 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>.link0</name>
+			<name>.link3</name>
 			<type>2</type>
-			<location>D:/Android/Sdk/sources/android-23</location>
+			<location>D:/Android/Sdk/sources/android-19</location>
 		</link>
 		<link>
-			<name>.link1</name>
+			<name>.link4</name>
 			<type>2</type>
 			<location>D:/Android/Sdk/sources/android-22</location>
 		</link>
 		<link>
-			<name>.link2</name>
+			<name>.link5</name>
 			<type>2</type>
-			<location>D:/Android/Sdk/sources/android-15</location>
+			<location>D:/Android/Sdk/sources/android-23</location>
 		</link>
 		<link>
-			<name>.link6</name>
+			<name>.link7</name>
 			<type>2</type>
-			<location>D:/Android/Sdk/sources/android-19</location>
+			<location>D:/Android/Sdk/sources/android-15</location>
 		</link>
 	</linkedResources>
 </projectDescription>
