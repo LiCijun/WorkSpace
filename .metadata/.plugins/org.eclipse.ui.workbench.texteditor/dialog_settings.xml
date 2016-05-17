@@ -8,6 +8,7 @@
 		<item value="true" key="wrap"/>
 		<item value="true" key="wholeword"/>
 		<list key="findhistory">
+			<item value="string"/>
 			<item value="IRAuthCheckRandom"/>
 			<item value="IdentityAuthentification"/>
 			<item value="SecureUnit"/>
@@ -15,9 +16,9 @@
 			<item value="OnCheckDataCache"/>
 			<item value="Log"/>
 			<item value="PacketMessage"/>
-			<item value="UIMessage"/>
 		</list>
 		<list key="replacehistory">
+			<item value="String"/>
 			<item value=""/>
 			<item value="DataConvert.ArrayCopy"/>
 			<item value="data"/>
