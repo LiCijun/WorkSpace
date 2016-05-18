@@ -2,7 +2,7 @@
 //org.eclipse.ui.commands/state/org.eclipse.egit.ui.RepositoriesToggleBranchHierarchy/org.eclipse.ui.commands.toggleState=true
 //org.eclipse.ui.commands/state/org.eclipse.ui.navigator.resources.nested.changeProjectPresentation/org.eclipse.ui.commands.radioState=false
 ENABLED_DECORATORS=org.eclipse.m2e.core.mavenVersionDecorator\:true,com.android.ide.eclipse.adt.project.FolderDecorator\:true,org.eclipse.buildship.ui.gradledecorator\:true,org.eclipse.cdt.ui.indexedFiles\:true,org.eclipse.cdt.managedbuilder.ui.excludedFile\:true,org.eclipse.cdt.managedbuilder.ui.includeFolder\:true,org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator\:true,org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator\:true,org.eclipse.jdt.ui.override.decorator\:true,org.eclipse.jdt.ui.interface.decorator\:true,org.eclipse.jdt.ui.buildpath.decorator\:true,org.eclipse.m2e.core.maven2decorator\:true,org.eclipse.mylyn.context.ui.decorator.interest\:true,org.eclipse.mylyn.tasks.ui.decorators.task\:true,org.eclipse.mylyn.team.ui.changeset.decorator\:true,org.eclipse.ui.LinkedResourceDecorator\:true,org.eclipse.ui.SymlinkDecorator\:true,org.eclipse.ui.VirtualResourceDecorator\:true,org.eclipse.ui.ContentTypeDecorator\:true,org.eclipse.ui.ResourceFilterDecorator\:true,
-PLUGINS_NOT_ACTIVATED_ON_STARTUP=
+PLUGINS_NOT_ACTIVATED_ON_STARTUP=org.eclipse.m2e.discovery;
 RECENT_FILES=10
 RUN_IN_BACKGROUND=true
 STICKY_CYCLE=true

@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="android.database.Observable"/>
-<fullyQualifiedTypeName name="java.util.Observable"/>
 <fullyQualifiedTypeName name="android.provider.MediaStore.Images.Thumbnails"/>
 <fullyQualifiedTypeName name="android.os.Message"/>
 <fullyQualifiedTypeName name="android.R"/>
@@ -12,7 +10,6 @@
 <fullyQualifiedTypeName name="keymantek.android.serialport.Parity"/>
 <fullyQualifiedTypeName name="keymantek.android.serialport.StopBits"/>
 <fullyQualifiedTypeName name="android.R.bool"/>
-<fullyQualifiedTypeName name="keymantek.android.meterfunction.MeterAuthTypeEnum"/>
 <fullyQualifiedTypeName name="keymantek.android.lang.PintArray"/>
 <fullyQualifiedTypeName name="keymantek.android.secunit.CardTypeEnum"/>
 <fullyQualifiedTypeName name="android.media.audiofx.Equalizer"/>
@@ -21,7 +18,6 @@
 <fullyQualifiedTypeName name="keymantek.android.secunit.AuthTypeEnum"/>
 <fullyQualifiedTypeName name="keymantek.android.meter.MeterRecvData"/>
 <fullyQualifiedTypeName name="keymantek.android.meter.MeterErrorCode"/>
-<fullyQualifiedTypeName name="keymantek.android.meter.MeterControlCodeEnum"/>
 <fullyQualifiedTypeName name="keymantek.android.hhuinterface.idb.IDataBase"/>
 <fullyQualifiedTypeName name="keymantek.android.hhuinterface.operateauthority.OperateAuthority"/>
 <fullyQualifiedTypeName name="keymantek.android.hhuinterface.configureinfo.ConfigureInfo"/>
@@ -42,7 +38,6 @@
 <fullyQualifiedTypeName name="keymantek.android.hhuinterface.config.Config"/>
 <fullyQualifiedTypeName name="java.lang.Override"/>
 <fullyQualifiedTypeName name="java.io.ByteArrayOutputStream"/>
-<fullyQualifiedTypeName name="keymantek.android.meter.MeterSendData"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="keymantek.android.hhuinterface.sync.ProtocolVersionEnum"/>
 <fullyQualifiedTypeName name="java.util.LinkedList"/>
@@ -60,4 +55,9 @@
 <fullyQualifiedTypeName name="java.lang.Exception"/>
 <fullyQualifiedTypeName name="java.lang.Thread"/>
 <fullyQualifiedTypeName name="java.lang.Runnable"/>
+<fullyQualifiedTypeName name="keymantek.android.meter.MeterSendData"/>
+<fullyQualifiedTypeName name="keymantek.android.meter.MeterControlCodeEnum"/>
+<fullyQualifiedTypeName name="keymantek.android.meterfunction.MeterAuthTypeEnum"/>
+<fullyQualifiedTypeName name="keymantek.android.hhuinterface.work.STV_OperTypeEnum"/>
+<fullyQualifiedTypeName name="java.lang.Boolean"/>
 </qualifiedTypeNameHistroy>
