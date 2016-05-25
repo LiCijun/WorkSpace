@@ -10,17 +10,17 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>.link1</name>
+			<name>.link0</name>
 			<type>2</type>
 			<location>D:/Android/Sdk/sources/android-23</location>
 		</link>
 		<link>
-			<name>.link2</name>
+			<name>.link3</name>
 			<type>2</type>
 			<location>D:/Android/Sdk/sources/android-22</location>
 		</link>
 		<link>
-			<name>.link5</name>
+			<name>.link4</name>
 			<type>2</type>
 			<location>D:/Android/Sdk/sources/android-15</location>
 		</link>

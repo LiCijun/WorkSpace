@@ -2,24 +2,24 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="AutoCheckAndRegTask" key="selection"/>
+		<item value="GetIsHXMeter" key="selection"/>
 		<item value="true" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="true" key="wholeword"/>
 		<list key="findhistory">
-			<item value="STV_OperTypeEnum"/>
-			<item value="AutoCheckAndRegTask"/>
-			<item value="string"/>
-			<item value="IRAuthCheckRandom"/>
-			<item value="IdentityAuthentification"/>
-			<item value="SecureUnit"/>
-			<item value="ShowMessage"/>
-			<item value="OnCheckDataCache"/>
+			<item value="GetIsHXMeter"/>
+			<item value="deviceInfo"/>
+			<item value="STV_OperTypeEnum."/>
+			<item value="ProtocolVersionEnum."/>
+			<item value="ParamSetForAnHui"/>
+			<item value="DataTemplateTypeEnum."/>
+			<item value="DataTemplateTypeEnum"/>
+			<item value="date"/>
 		</list>
 		<list key="replacehistory">
-			<item value="String"/>
 			<item value=""/>
+			<item value="String"/>
 			<item value="DataConvert.ArrayCopy"/>
 			<item value="data"/>
 			<item value="@param"/>
@@ -30,7 +30,7 @@
 		<item value="273" key="DIALOG_WIDTH"/>
 		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
 		<item value="400" key="DIALOG_HEIGHT"/>
-		<item value="443" key="DIALOG_Y_ORIGIN"/>
-		<item value="1069" key="DIALOG_X_ORIGIN"/>
+		<item value="450" key="DIALOG_Y_ORIGIN"/>
+		<item value="1182" key="DIALOG_X_ORIGIN"/>
 	</section>
 </section>
