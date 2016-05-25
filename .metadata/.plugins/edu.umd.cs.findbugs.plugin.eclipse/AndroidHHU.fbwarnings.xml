@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.0.1-dev-20150306-5afe4d1" sequence="1" timestamp="1464160060045" analysisTimestamp="1464160048922" release="">
+  <Project projectName="AndroidHHU">
+    <Jar>D:\GitRepo\AndroidHHU\AndroidHHU\bin\classes\keymantek\android\hhuterminal\disgn\NetThread$1.class</Jar>
+    <Jar>D:\GitRepo\AndroidHHU\AndroidHHU\bin\classes\keymantek\android\hhuterminal\disgn\NetThread.class</Jar>
+    <AuxClasspathEntry>D:\GitRepo\AndroidHHU\v7\cardview\libs\android-support-v7-cardview.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\GitRepo\AndroidHHU\v7\appcompat\libs\android-support-v4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\GitRepo\AndroidHHU\v7\recyclerview\libs\android-support-v7-recyclerview.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\GitRepo\Android.HHUInterface\HHUInterface\libs\xstream-1.4.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\GitRepo\AndroidHHU\v7\appcompat\libs\android-support-v7-appcompat.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\GitRepo\AndroidHHU\v7\design\libs\android-support-design.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\GitRepo\Android.HHUInterface\HHUInterface\libs\gson-2.2.4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\GitRepo\Android.DeviceInfo\bin\deviceinfo.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\GitRepo\Android.P645\bin\p645.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\GitRepo\Android.HHUInterface\HHUInterface\bin\hhuinterface.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\GitRepo\Android.MeterFunction\MeterFunction\bin\meterfunction.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\GitRepo\Android.Meter\Meter\bin\meter.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\GitRepo\Android.Meter645\Meter645\bin\meter645.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\GitRepo\Android.SecUnit\SecUnit\bin\secunit.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\GitRepo\Android.SerialPort\bin\serialport.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\GitRepo\Android.Protocol\Protocol\bin\protocol.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\GitRepo\Android.MessageQueue\MessageQueue\bin\messagequeue.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\GitRepo\Android.Event\Event\bin\event.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\GitRepo\Android.Lang\Lang\bin\lang.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\GitRepo\AndroidHHU\v7\cardview\bin\cardview.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\GitRepo\AndroidHHU\v7\design\bin\design.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\GitRepo\AndroidHHU\v7\appcompat\bin\android-support-v7-appcompat.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\GitRepo\AndroidHHU\v7\recyclerview\bin\recyclerview.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\GitRepo\Android.Security\Security\bin\security.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\GitRepo\Android.Convert\Convert\bin\convert.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\GitRepo\AndroidHHU\AndroidHHU\bin\classes</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Android\sdk\platforms\android-23\android.jar</AuxClasspathEntry>
+    <SrcDir>D:\GitRepo\AndroidHHU\AndroidHHU\src</SrcDir>
+    <SrcDir>D:\GitRepo\AndroidHHU\AndroidHHU\gen</SrcDir>
+    <Cloud id="edu.umd.cs.findbugs.cloud.doNothingCloud" online="false"></Cloud>
+  </Project>
+  <BugInstance type="NM_METHOD_NAMING_CONVENTION" priority="2" rank="16" abbrev="Nm" category="BAD_PRACTICE" first="1">
+    <Class classname="keymantek.android.hhuterminal.disgn.NetThread">
+      <SourceLine classname="keymantek.android.hhuterminal.disgn.NetThread" sourcefile="NetThread.java" sourcepath="keymantek/android/hhuterminal/disgn/NetThread.java"/>
+    </Class>
+    <Method classname="keymantek.android.hhuterminal.disgn.NetThread" name="StartThread" signature="()V" isStatic="false">
+      <SourceLine classname="keymantek.android.hhuterminal.disgn.NetThread" start="43" end="51" startBytecode="0" endBytecode="80" sourcefile="NetThread.java" sourcepath="keymantek/android/hhuterminal/disgn/NetThread.java"/>
+    </Method>
+  </BugInstance>
+  <BugInstance type="URF_UNREAD_FIELD" priority="2" rank="18" abbrev="UrF" category="PERFORMANCE" first="1">
+    <Class classname="keymantek.android.hhuterminal.disgn.NetThread">
+      <SourceLine classname="keymantek.android.hhuterminal.disgn.NetThread" sourcefile="NetThread.java" sourcepath="keymantek/android/hhuterminal/disgn/NetThread.java"/>
+    </Class>
+    <Field classname="keymantek.android.hhuterminal.disgn.NetThread" name="hardVersion" signature="I" isStatic="false">
+      <SourceLine classname="keymantek.android.hhuterminal.disgn.NetThread" sourcefile="NetThread.java" sourcepath="keymantek/android/hhuterminal/disgn/NetThread.java"/>
+    </Field>
+    <SourceLine classname="keymantek.android.hhuterminal.disgn.NetThread" start="37" end="37" startBytecode="19" endBytecode="19" sourcefile="NetThread.java" sourcepath="keymantek/android/hhuterminal/disgn/NetThread.java"/>
+  </BugInstance>
+  <BugInstance type="URF_UNREAD_FIELD" priority="2" rank="18" abbrev="UrF" category="PERFORMANCE" first="1">
+    <Class classname="keymantek.android.hhuterminal.disgn.NetThread">
+      <SourceLine classname="keymantek.android.hhuterminal.disgn.NetThread" sourcefile="NetThread.java" sourcepath="keymantek/android/hhuterminal/disgn/NetThread.java"/>
+    </Class>
+    <Field classname="keymantek.android.hhuterminal.disgn.NetThread" name="softVersion" signature="I" isStatic="false">
+      <SourceLine classname="keymantek.android.hhuterminal.disgn.NetThread" sourcefile="NetThread.java" sourcepath="keymantek/android/hhuterminal/disgn/NetThread.java"/>
+    </Field>
+    <SourceLine classname="keymantek.android.hhuterminal.disgn.NetThread" start="38" end="38" startBytecode="25" endBytecode="25" sourcefile="NetThread.java" sourcepath="keymantek/android/hhuterminal/disgn/NetThread.java"/>
+  </BugInstance>
+  <BugInstance type="URF_UNREAD_PUBLIC_OR_PROTECTED_FIELD" priority="2" rank="18" abbrev="UrF" category="STYLE" first="1">
+    <Class classname="keymantek.android.hhuterminal.disgn.NetThread">
+      <SourceLine classname="keymantek.android.hhuterminal.disgn.NetThread" sourcefile="NetThread.java" sourcepath="keymantek/android/hhuterminal/disgn/NetThread.java"/>
+    </Class>
+    <Field classname="keymantek.android.hhuterminal.disgn.NetThread" name="OperateCode" signature="Ljava/lang/String;" isStatic="false">
+      <SourceLine classname="keymantek.android.hhuterminal.disgn.NetThread" sourcefile="NetThread.java" sourcepath="keymantek/android/hhuterminal/disgn/NetThread.java"/>
+    </Field>
+    <SourceLine classname="keymantek.android.hhuterminal.disgn.NetThread" start="35" end="35" startBytecode="7" endBytecode="7" sourcefile="NetThread.java" sourcepath="keymantek/android/hhuterminal/disgn/NetThread.java"/>
+  </BugInstance>
+  <BugInstance type="URF_UNREAD_PUBLIC_OR_PROTECTED_FIELD" priority="2" rank="18" abbrev="UrF" category="STYLE" first="1">
+    <Class classname="keymantek.android.hhuterminal.disgn.NetThread">
+      <SourceLine classname="keymantek.android.hhuterminal.disgn.NetThread" sourcefile="NetThread.java" sourcepath="keymantek/android/hhuterminal/disgn/NetThread.java"/>
+    </Class>
+    <Field classname="keymantek.android.hhuterminal.disgn.NetThread" name="SN" signature="Ljava/lang/String;" isStatic="false">
+      <SourceLine classname="keymantek.android.hhuterminal.disgn.NetThread" sourcefile="NetThread.java" sourcepath="keymantek/android/hhuterminal/disgn/NetThread.java"/>
+    </Field>
+    <SourceLine classname="keymantek.android.hhuterminal.disgn.NetThread" start="36" end="36" startBytecode="13" endBytecode="13" sourcefile="NetThread.java" sourcepath="keymantek/android/hhuterminal/disgn/NetThread.java"/>
+  </BugInstance>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Wed, 25 May 2016 15:07:31 +0800" total_classes="2" referenced_classes="14" total_bugs="5" total_size="47" num_packages="1" java_version="1.8.0_92" vm_version="25.92-b14" cpu_seconds="47.08" clock_seconds="11.20" peak_mbytes="1704.64" alloc_mbytes="3641.00" gc_seconds="0.00" priority_2="5">
+    <PackageStats package="keymantek.android.hhuterminal.disgn" total_bugs="5" total_types="2" total_size="47" priority_2="5">
+      <ClassStats class="keymantek.android.hhuterminal.disgn.NetThread" sourceFile="NetThread.java" interface="false" size="39" bugs="5" priority_2="5"/>
+      <ClassStats class="keymantek.android.hhuterminal.disgn.NetThread$1" sourceFile="NetThread.java" interface="false" size="8" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="de.tobject.findbugs.builder.FindBugs2Eclipse" totalMilliseconds="1553" invocations="2" avgMicrosecondsPerInvocation="776800" maxMicrosecondsPerInvocation="1147967" standardDeviationMircosecondsPerInvocation="371167"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="187" invocations="211" avgMicrosecondsPerInvocation="890" maxMicrosecondsPerInvocation="39445" standardDeviationMircosecondsPerInvocation="2959"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="112" invocations="7" avgMicrosecondsPerInvocation="16108" maxMicrosecondsPerInvocation="108117" standardDeviationMircosecondsPerInvocation="37571"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.Naming" totalMilliseconds="98" invocations="2" avgMicrosecondsPerInvocation="49377" maxMicrosecondsPerInvocation="56609" standardDeviationMircosecondsPerInvocation="7229"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="94" invocations="14" avgMicrosecondsPerInvocation="6778" maxMicrosecondsPerInvocation="60258" standardDeviationMircosecondsPerInvocation="15033"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="67" invocations="7" avgMicrosecondsPerInvocation="9634" maxMicrosecondsPerInvocation="57114" standardDeviationMircosecondsPerInvocation="19394"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="65" invocations="20" avgMicrosecondsPerInvocation="3274" maxMicrosecondsPerInvocation="35952" standardDeviationMircosecondsPerInvocation="8400"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.UnreadFields" totalMilliseconds="56" invocations="2" avgMicrosecondsPerInvocation="28489" maxMicrosecondsPerInvocation="46479" standardDeviationMircosecondsPerInvocation="17990"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="53" invocations="212" avgMicrosecondsPerInvocation="253" maxMicrosecondsPerInvocation="1658" standardDeviationMircosecondsPerInvocation="134"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.impl.ZipCodeBaseFactory" totalMilliseconds="48" invocations="28" avgMicrosecondsPerInvocation="1748" maxMicrosecondsPerInvocation="2637" standardDeviationMircosecondsPerInvocation="396"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="46" invocations="8" avgMicrosecondsPerInvocation="5752" maxMicrosecondsPerInvocation="32154" standardDeviationMircosecondsPerInvocation="10031"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History>
+    <AppVersion sequence="0" timestamp="1464160060037" release="" codeSize="0" numClasses="0"/>
+  </History>
+</BugCollection>

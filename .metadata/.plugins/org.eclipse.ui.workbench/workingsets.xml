@@ -5,6 +5,7 @@
 <item elementID="=Event" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=Convert" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=Meter" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=WorkSync" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=Meter645" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=MeterFunction" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=Lang" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>

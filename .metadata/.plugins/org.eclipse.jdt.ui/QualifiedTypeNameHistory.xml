@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="keymantek.android.meter.MeterSendData"/>
-<fullyQualifiedTypeName name="android.graphics.drawable.GradientDrawable"/>
 <fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
 <fullyQualifiedTypeName name="keymantek.android.hhuinterface.work.Work"/>
 <fullyQualifiedTypeName name="keymantek.android.hhuinterface.sync.ProtocolVersionEnum"/>
@@ -52,7 +50,6 @@
 <fullyQualifiedTypeName name="net.hydromatic.linq4j.Linq4j"/>
 <fullyQualifiedTypeName name="net.hydromatic.linq4j.function.Predicate1"/>
 <fullyQualifiedTypeName name="android.util.Xml.Encoding"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="java.nio.charset.Charset"/>
 <fullyQualifiedTypeName name="keymantek.android.meter.MeterRecvData"/>
 <fullyQualifiedTypeName name="java.lang.Object"/>
@@ -60,4 +57,7 @@
 <fullyQualifiedTypeName name="keymantek.android.meterfunction.PMeterRateEnum"/>
 <fullyQualifiedTypeName name="keymantek.android.meterfunction.PMeterStepEnum"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="keymantek.android.deviceinfo.GPIO"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="keymantek.android.convert.CharsetName"/>
 </qualifiedTypeNameHistroy>
